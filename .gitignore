@@ -1,0 +1,6 @@
+data/
+*.py[co]
+.idea/
+.DS_Store
+app/
+nohup.out
